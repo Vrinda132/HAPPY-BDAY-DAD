@@ -1,0 +1,65 @@
+h2 {
+    font-family: 'Dancing Script', cursive;
+    color:cornflowerblue;
+    text-align: center;
+}
+
+#Collage {
+    text-align: center;
+    width: ;
+    height: 75%;
+    border-radius: 50px;
+}
+
+body {
+    background: rgb(254,255,0);
+background: linear-gradient(0deg, rgba(254,255,0,1) 13%, rgba(244,170,30,1) 100%);
+}
+
+#dad1 {
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    text-align: left;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#sweet2,
+#sweet3 {
+    margin-top: 15px;
+}
+
+p {
+    text-align: left;
+}
+
+#sweet2,
+#sweet3,
+#sweet1 {
+    font-size: 20px;
+}
+
+#dad1 {
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+h7{
+    font-size: 20px;
+    text-align: center;
+}
